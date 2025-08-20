@@ -2,6 +2,8 @@
 
 A data-driven analytics and modeling solution designed to optimize marketing campaign performance across multiple channels and regions. This suite empowers stakeholders with actionable insights, predictive modeling, and interactive dashboards to drive strategic decisions.
 
+[Campaign-intelligence-suite(repo)](https://github.com/aneshraj-data-96/Campaign-intelligence-suite)
+
 ---
 
 ## 🧠 Project Overview
