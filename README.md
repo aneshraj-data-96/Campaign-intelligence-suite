@@ -115,9 +115,6 @@ Built using **Streamlit**, the dashboard includes:
 
 ## 👤 Author
 
-**Dhusyath**  
-Data Analyst | Data Scientist | Business Analyst  
-Focused on multi-industry impact through predictive modeling and dashboarding.  
-📍 Chennai, India
+Anesh Raj
 
 ---
